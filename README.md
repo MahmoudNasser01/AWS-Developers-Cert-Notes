@@ -52,6 +52,13 @@ single) not using load balance to save cost and also still have the auto scaling
 note: if the switch happend in the same ENV then it will be concidered as In-place otherwise it will be Blue/Green depoyment
 note: Blue/Green with EB requires that your Database is outside the ENV because in Blue/Green method the old ENV is destroyed and replaced with another one.
 
+
+## EB configuration files
+<img width="940" alt="image" src="https://user-images.githubusercontent.com/55510819/218370372-ec63818c-db2c-440f-9897-1dbb5c8affa5.png">
+
+<img width="940" alt="image" src="https://user-images.githubusercontent.com/55510819/218370533-7457fd8c-e944-45f7-96f9-56df354cdb22.png">
+
+
 ## server configrations
 <img width="1130" alt="image" src="https://user-images.githubusercontent.com/55510819/216830027-e232263f-c2e0-4918-8238-8370c86ac6f2.png">
 
