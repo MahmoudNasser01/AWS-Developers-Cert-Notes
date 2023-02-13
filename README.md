@@ -1,8 +1,44 @@
 # AWS-Developers-Cert-Notes
 
 
+# Elastic BeansTalk
+
+- think about it as heroku of the AWS (highly automated)
+- not reommended if you want full customization
+
+- in EB you have to diffrentae between the Web environment and the Worker Environment
+<img width="940" alt="image" src="https://user-images.githubusercontent.com/55510819/218367034-844d7ff0-302d-4d61-9d27-b464b295d997.png">
+
+
+- there is 2 types of EB web environments (Load Balanced Env / single instance env)
+
+load balanced) using load balance feature and also auto scaling
+
+single) not using load balance to save cost and also still have the auto scaling
+
+<img width="940" alt="image" src="https://user-images.githubusercontent.com/55510819/218367597-f79e3eb6-8b57-4a6f-8ad8-3a2a8aa465d1.png">
+
+
+
 
 ## Deployment methods
+
+## 1 All at once
+<img width="940" alt="image" src="https://user-images.githubusercontent.com/55510819/218367856-10b9d87c-6c41-484c-b7e6-93d029c0588f.png">
+
+
+## 2 Rolling
+<img width="940" alt="image" src="https://user-images.githubusercontent.com/55510819/218368005-1700eb12-a747-4a37-bda7-1920b2cb7b76.png">
+
+## 3 Rolling With Additional Batch
+<img width="940" alt="image" src="https://user-images.githubusercontent.com/55510819/218368157-aa1c2f04-bad5-4c9f-890f-98dbde16d22a.png">
+
+
+## 4 Immutable
+<img width="940" alt="image" src="https://user-images.githubusercontent.com/55510819/218368546-639f36c4-2b7a-4bfd-9810-f612c0a21060.png">
+
+
+
 <img width="1130" alt="image" src="https://user-images.githubusercontent.com/55510819/216828476-fc24279e-9ac9-4dc1-8557-48f9d533505b.png">
 
 
