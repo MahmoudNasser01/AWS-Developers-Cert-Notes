@@ -1,4 +1,5 @@
-What is Amazon Simple Notification Service (SNS)?
+# What is Amazon Simple Notification Service (SNS)?
+
 Amazon Simple Notification Service (SNS) is a fully managed, highly scalable and reliable messaging service from Amazon Web Services (AWS). It is used to enable applications to send and receive push notifications. It can also be used to send short messages (such as emails or SMSs) directly to an application or to any device or group of devices.
 
 SNS provides a layer of security between the applications and the cloud. Its ability to deliver notifications to numerous users simultaneously, quickly and reliably, makes it an invaluable communication tool. SNS is integrated with a variety of other AWS services, such as Amazon CloudWatch and Amazon EC2, allowing it to easily monitor and manage resources across the entire system.
