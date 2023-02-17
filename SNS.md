@@ -11,3 +11,8 @@ SNS is also easy to set up. Users only need to create a topic and configure the 
 Finally, Amazon SNS is a cost-effective solution. It eliminates the need for in-house infrastructure and provides a pay-as-you-go pricing model that fits organizations of any size. With Amazon SNS, it's easy to scale up and down depending on the needs of your organization.
 
 Overall, Amazon SNS provides a secure and reliable communication service that simplifies the challenges faced by developers and helps them deliver effective and timely notifications to their users.
+
+
+
+## cheatsheet
+<img width="1177" alt="image" src="https://user-images.githubusercontent.com/55510819/219786966-a7ce895c-a3a4-4650-a242-552863d45309.png">
