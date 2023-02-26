@@ -8,8 +8,7 @@
 - `Top Level Domains (TLD)`: .com, .org, .us,.....
 
 ## URL structure
-<img width="646" alt="image" src="https://user-images.githubusercontent.com/55510819/221381399-adb840b8-ccef-4ae8-a627-46b9ff4ec149.png">
-
+![image](https://user-images.githubusercontent.com/55510819/221405888-7e7e0256-fac0-42db-8054-b6bd2eab7f0a.png)
 
 ## DNS Travel Journey 
 <img width="1047" alt="image" src="https://user-images.githubusercontent.com/55510819/221381490-95f403fd-0983-43de-a3f2-25528a5b7dd6.png">
