@@ -20,6 +20,10 @@
 - `NS`: Name severs for the hosted zone
 
 
+## Alias Record Targets
+- ELB - CloudFront - API Gateway - Elastic BeansTalk - S3 Websites - VPC - Route53 that hosted in the same zone
+- `you cannot set an alias for an EC2 DNS name`
+
 
 
 
