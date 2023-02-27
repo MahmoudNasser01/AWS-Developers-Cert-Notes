@@ -1,2 +1,2 @@
-# instractor resources:
-https://courses.datacumulus.com/downloads/certified-developer-k92/
+# instractor resources-k92:
+https://courses.datacumulus.com/downloads/certified-developer/
