@@ -1,4 +1,4 @@
-#AMI
+# AMI
 
 
 
@@ -10,6 +10,7 @@
 - Highest perofmance SSD volume
 - st : Low Cost HDD
 -  Sc : very low cost HDD
+-  
 
 
 
